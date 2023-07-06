@@ -1,6 +1,6 @@
 ---
-title: Mobile Money Operators in Nigeria and the Customer Retention Nightmare.
-description: Mobile Money Operators in Nigeria and the Customer Retention Nightmare.
+title: We Have A Blog!
+description: Explore our blog for valuable insights, expert advice, and updates on the world of finance and currency exchange. 
 ---
 
 
