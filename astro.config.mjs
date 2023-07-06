@@ -5,9 +5,16 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
   integrations: [
     starlight({
-      title: 'My Docs',
+      title: 'Trocah Blog',
       social: {
-        github: 'https://github.com/withastro/starlight',
+        github: 'https://github.com/Troca-Team',
+        twitter: 'https://twitter.com/trocahhq?s=20',
+        instagram: 'https://www.instagram.com/usetrocah/',
+        linkedin: 'https://www.linkedin.com/company/trocah',
+      },
+      logo: {
+        src: '/src/assets/trocah-logo.svg',
+        replacesTitle: true,
       },
       sidebar: [
         {
